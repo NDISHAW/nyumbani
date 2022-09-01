@@ -32,7 +32,7 @@
     display: grid;
     height: 97%;
     width: 97%;
-    /* background: var(--glass); */
+    background: var(--glass);
     /* background-color: #fbbf24; */
     border-radius: 2rem;
     gap: 16px;
